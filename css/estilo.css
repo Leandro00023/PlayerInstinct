@@ -1,0 +1,94 @@
+body{
+	font: Verdana, Arial, serif;
+	background-color: #000000;
+}
+
+.topo{
+	text-align: center; /* alinhar ao centro */
+	height: 380px; /*comando para alterar tamanho do background */
+	background-color: #800000;
+}
+.vid{
+	font-size: 16px;
+	color: #FF0000;
+}
+
+.sobre{
+	color:#001aff;
+} 	
+
+.pesquisa {  /* alinhar a direita */ 
+	text-align: right; 
+	font-size: 18px; 
+	color: #FF0000; /* cor da fonte */
+}
+
+h1{
+	text-align: center;
+	color: #FF0000;
+}
+
+h2{
+	text-align: center;
+	color: #0cf091;
+}
+
+h3{
+	text-align: center;
+	color: #001aff;
+}
+
+h4{
+	text-align: center;
+	color: #fbff00;
+}
+
+h5{
+	text-align: center;
+	color: #c300ff;
+}
+
+h6{
+	text-align: center;
+	color: #ffa600;
+}
+
+.regras{
+	font-size: 16px;
+	color: #FF0000;
+}
+
+.link{
+	text-align: left; /* alinhar a esquerda */
+	font-size:18px;
+	color: #FF0000;
+}
+
+.listas{
+	font-size: 16px;
+	color: #FF0000;
+}
+
+.downlods{
+	text-align: left; /* alinhar a esquerda */
+	font-size:16px;
+	color: #FF0000;
+}
+
+.tabelas{
+	font-size: 16px;
+	color: #FF0000;
+}
+
+th{
+	color: #fffb00;
+}
+
+.rodape{
+	text-align: center;
+	background-color: #800000; 
+	height: 25px;
+	font-size:22px;
+	color: #eeff00;
+	text-shadow: 2px 2px 4px #000000; /* adicionar sombra a fonte */
+}
